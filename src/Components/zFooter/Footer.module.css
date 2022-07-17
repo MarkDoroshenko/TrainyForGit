@@ -1,0 +1,19 @@
+.contain{
+    width: 1110px;
+    margin: 0 auto;
+
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 0 130px;
+
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+}
+
